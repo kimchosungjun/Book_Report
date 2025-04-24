@@ -11,7 +11,8 @@
 ### 4월
 **책 목록**
 >* C# 프로그래밍 (약 800쪽 / 4.19 - 4.30)
-
+  >* https://sungjun0531.tistory.com/98
+  >* https://sungjun0531.tistory.com/99
 ---
 
 ### 5월
